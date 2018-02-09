@@ -1,0 +1,9 @@
+[CruCopter1]
+CruCopter1 = "172.16.0.1"
+
+[My Computer]
+My Computer = "172.16.0.11"
+
+[NI-myRIO-1900-03054878]
+NI-myRIO-1900-03054878 = "172.22.11.2"
+
